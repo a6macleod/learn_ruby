@@ -1,4 +1,4 @@
-# # Topics
+
 #
 # * functions
 # * math
